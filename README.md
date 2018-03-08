@@ -37,7 +37,7 @@ This utilities can go from code examples, test frameworks, configuration and ben
 
 # 3. Sandbox Project Tree
 This are the sub-projects under Sandbox:
-* Raspberry
+* RaspberryPi
 * Bash
 * OpenCV
 
