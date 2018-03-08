@@ -3,13 +3,15 @@
 # Table of Contents
 &nbsp;&nbsp;[1. Software License Agreement (MIT License)](#1-software-license-agreement)
 <a name="1. Software License Agreement (MIT License)"/>  
-&nbsp;&nbsp;[2. Sandbox Project](#2-homemonitoriot-project)
+&nbsp;&nbsp;[2. Sandbox Project](#2-sandbox-project)
 <a name="2. Sandbox Project"/>  
+&nbsp;&nbsp;[2. Sandbox Project Tree](#3-sand-box-project-tree)
+<a name="3. Sandbox Project Tree"/>
 
 # 1. Software License Agreement (MIT License)
-MIT License
+**MIT License**
 
-Copyright (c) 2018 Tiago Sarmento Santos
+**Copyright (c) 2018 Tiago Sarmento Santos**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,4 +32,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # 2. Sandbox Project
-[TODO]
+The aim of this Sandbox repository is to held toolbox with several utilities, to serve as reference but also to test them.
+This utilities can go from code examples, test frameworks, configuration and benchmark of some technology.
+
+# 3. Sandbox Project Tree
+This are the sub-projects under Sandbox:
+* Raspberry
+* Bash
+* OpenCV
+
