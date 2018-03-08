@@ -65,11 +65,11 @@ network={
 ```
 Further details on Wi-Fi setup, can be found here: [enable-wifi-raspberrypi](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md "Enable Wi-Fi for remote access to Raspberry Pi")
 
-### 3.3.3. Enable VNC
+### 3.2.3. Enable VNC
 When running an headless RaspberryPi, you may want to enable the VNC to be able to access RaspberryPi GUI (x-server) remotely.
 Details on VNC setup, can be found here: [enable-vnc-raspberrypi](https://www.realvnc.com/en/connect/docs/raspberry-pi.html "Enable VNC for remote access to Raspberry Pi")
 
-### 3.2.3. Reduce used space by OS
+### 3.2.4. Reduce used space by OS
 Depending on the usage you will give to your RaspberryPi you may want to reduce the used space by removing unused applications.
 Hereafter a list of applications not used so often, by removing them space used by OS dropped to about 2.5GB.
 ```

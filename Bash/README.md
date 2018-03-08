@@ -1,12 +1,12 @@
 # Sandbox Bash
 
 # Table of Contents
-&nbsp;&nbsp;[1. Software License Agreement (MIT License)](#1-software-license-agreement)
-<a name="1. Software License Agreement (MIT License)"/>  
+&nbsp;&nbsp;[1. Software License Agreement](#1-software-license-agreement)
+<a name="1. Software License Agreement"/>  
 &nbsp;&nbsp;[2. Bash Project](#2-bash-project)
 <a name="2. Bash Project"/>  
 
-# 1. Software License Agreement (MIT License)
+# 1. Software License Agreement
 **MIT License**
 
 **Copyright (c) 2018 Tiago Sarmento Santos**

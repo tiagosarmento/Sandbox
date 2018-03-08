@@ -1,14 +1,14 @@
 # Sandbox
 
 # Table of Contents
-&nbsp;&nbsp;[1. Software License Agreement (MIT License)](#1-software-license-agreement)
-<a name="1. Software License Agreement (MIT License)"/>  
+&nbsp;&nbsp;[1. Software License Agreement](#1-software-license-agreement)
+<a name="1. Software License Agreement"/>  
 &nbsp;&nbsp;[2. Sandbox Project](#2-sandbox-project)
 <a name="2. Sandbox Project"/>  
 &nbsp;&nbsp;[2. Sandbox Project Tree](#3-sand-box-project-tree)
 <a name="3. Sandbox Project Tree"/>
 
-# 1. Software License Agreement (MIT License)
+# 1. Software License Agreement
 **MIT License**
 
 **Copyright (c) 2018 Tiago Sarmento Santos**
