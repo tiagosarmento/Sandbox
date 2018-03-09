@@ -121,8 +121,8 @@ $ cmake -D CMAKE_BUILD_TYPE=RELEASE \
         -D BUILD_TESTS=ON \
         -D INSTALL_C_EXAMPLES=ON \
         -D INSTALL_TESTS=ON \
-        -D ENABLE_NEON=OFF \
-        -D ENABLE_VFPV3=OFF \
+        -D ENABLE_NEON=ON \
+        -D ENABLE_VFPV3=ON \
         ../opencv-3.4.0
 $ make
 $ sudo make install
