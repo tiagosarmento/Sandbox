@@ -17,6 +17,8 @@
 <a name="3.3. Install OpenCV"/>  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4. Uninstall OpenCV](#34-uninstall-opencv)
 <a name="3.4. Uninstall OpenCV"/>  
+&nbsp;&nbsp;[4. References](#4-references)
+<a name="4. References"/>
 
 # 1. Software License Agreement
 **MIT License**
@@ -126,6 +128,29 @@ $ make
 $ sudo make install
 $ ldconfig
 ```
-## 3.4. Uninstall OpenCV
 
-# X. References
+## 3.4. Uninstall OpenCV
+There are two possible ways to uninstall Opencv:
+
+### 3.4.1. Uninstall through Make
+If you have installed OpenCV from sources, the make command should have created a uninstall profile on build directory.
+To proceed with uninstallation follow this steps:
+```
+$ cd build
+$ sudo make uninstall
+```
+
+### 3.4.2. Uninstall through "Brute Force"
+The previous point should be enough to uninstall OpenCV, however if you did not have installed OpenCV from sources or if you are not satisfied with the uninstallation done above, you can execute the following commands for "brute force" cleanup:
+**(Please note that this command will request to remove all files and directories containing the string "opencv", so use it carefully to not delete unwanted files or directories.)**
+```
+$ sudo find / -name "*opencv*" -exec rm -irf {} \;
+$ sudo ldconfig
+$ sudo ldconfig -vp
+```
+
+# 4. References
+* OpenCV [opencv](https://www.opencv.org/ "OpenCV Webpage")
+* OpenCV Github [opencv-github](https://github.com/opencv "OpenCV Github")
+* OpenCV pyimagesearch tutorials [opencv-pyimagesearch-tutorials](https://www.pyimagesearch.com/opencv-tutorials-resources-guides/ "pyimagesearch tutorials")
+
