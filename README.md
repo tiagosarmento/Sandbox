@@ -5,7 +5,7 @@
 <a name="1. Software License Agreement"/>  
 &nbsp;&nbsp;[2. Sandbox Project](#2-sandbox-project)
 <a name="2. Sandbox Project"/>  
-&nbsp;&nbsp;[2. Sandbox Project Tree](#3-sand-box-project-tree)
+&nbsp;&nbsp;[3. Sandbox Project Tree](#3-sand-box-project-tree)
 <a name="3. Sandbox Project Tree"/>
 
 # 1. Software License Agreement
